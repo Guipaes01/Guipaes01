@@ -6,7 +6,6 @@ Power BI, SQL e suporte técnico
 
 Em transição para área de dados | Conhecimentos em Power BI, SQL e suporte técnico
 
-* ✉️  You can contact me at [guilhermepaes2023@gmail.com](mailto:guilhermepaes2023@gmail.com)
 
 ### Skills
 
