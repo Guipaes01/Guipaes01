@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Guilherme Paes
-======================================================================================================================================
+![Header](./your-header-image-name.png)
 
-Power BI, SQL e suporte técnico
+
+Power BI, SQL e Suporte Técnico
 -------------------------------
 
 Em transição para área de dados | Conhecimentos em Power BI, SQL e suporte técnico
