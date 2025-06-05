@@ -5,7 +5,7 @@ Hi ! My name is Guilherme Paes
 Power BI, SQL e Suporte Técnico
 -------------------------------
 
-Em transição para área de dados | Conhecimentos em Power BI, SQL e suporte técnico
+Em transição para área de dados | Conhecimentos em Power BI, SQL e Suporte Técnico
 
 
 ### Skills
