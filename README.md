@@ -36,4 +36,3 @@
 ---
 
 📍 Campo Grande - MS  
-🧠 Em constante aprendizado e evolução!
