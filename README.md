@@ -27,19 +27,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔍 [Análise de Dados com Power BI](https://github.com/SEU_USUARIO/powerbi-vendas)
-Dashboard interativo com indicadores de vendas, análise por categoria e segmentações. Projeto focado em tomada de decisão por dados.
-
-### 🧾 [Consultas SQL – Base RH](https://github.com/SEU_USUARIO/sql-rh)
-Execução de queries SQL em uma base simulada de RH, com filtros, joins e KPIs. Prática de estrutura relacional e análise de métricas.
-
-### 📊 [Python + Pandas – Análise Exploratória](https://github.com/SEU_USUARIO/analise-python)
-Utilização de Pandas, Seaborn e Matplotlib para análise de datasets públicos com foco em visualizações e storytelling de dados.
-
----
-
 ## 🤝 Vamos nos Conectar
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
