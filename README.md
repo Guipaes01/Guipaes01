@@ -27,12 +27,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermepaes&show_icons=true&theme=tokyonight" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepaes&layout=compact&theme=tokyonight" /> </div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🔍 [Análise de Dados com Power BI](https://github.com/SEU_USUARIO/powerbi-vendas)
